@@ -66,7 +66,7 @@ Full-stack developer with 13+ years of experience in designing and developing mi
 - Developed and maintained the award-winning Kanaka banking software for 1500+ clients.
 - Involved in requirement gathering, design, and development for various banking modules.
 
-**Technologies:** VB.NET, SQL Server 2005.
+**Technologies:** C#.NET, ASP.NET, VB.NET, SQL Server 2005.
 
 ---
 
