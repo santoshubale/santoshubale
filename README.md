@@ -2,7 +2,7 @@
 
 **📱 Phone:** +65   
 **✉️ Email:** [santoshubale@gmail.com](mailto:santoshubale@gmail.com)  
-**🔗 LinkedIn:** [LinkedIn Profile](#)
+**🔗 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/santosh-ubale-89960618/)
 
 ---
 
