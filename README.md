@@ -14,7 +14,7 @@ Full-stack developer with 13+ years of experience in designing and developing mi
 
 ## 🛠 Technical Skills
 
-- **Languages & Frameworks:** .NET Framework, C#, ASP.NET, .Net Core, React JS, Redux, HTML5, CSS3, jQuery, LINQ, Entity Framework  
+- **Languages & Frameworks:** .NET 10, C#, ASP.NET, .Net Core, React JS, Entity Framework  
 - **Databases:** SQL Server, PostgreSQL, Redis, Redshift, DynamoDB  
 - **Cloud & Containers:** AWS, Docker, Kubernetes, OpenShift  
 - **APIs & Protocols:** REST, SOAP, JSON, gRPC, Swagger, Postman  
